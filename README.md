@@ -1,4 +1,4 @@
-# portfolio
+# portfolio([See App](https://portfolio-64d50.web.app))
 
 ## Project setup
 ```
@@ -18,6 +18,11 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### Deploy App to Firebase Hosting
+```
+yarn deploy
 ```
 
 ### Customize configuration
