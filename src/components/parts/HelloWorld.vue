@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <router-link to="contact">Contact</router-link>
+    <router-link to="/">Home</router-link>
+    <router-view></router-view>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
