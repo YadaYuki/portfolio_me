@@ -2,6 +2,8 @@ import Vue from "vue"
 import VueRouter from "vue-router"
 import Home from "./components/page/Home.vue"
 import Contact from "./components/page/Contact.vue"
+import Profile from "./components/page/Profile"
+import Work from "./components/page/Work"
 
 Vue.use(VueRouter)
 
@@ -15,6 +17,12 @@ export default new VueRouter({
         {
             path: "/contact",
             component: Contact
+        },{
+            path:"/profile",
+            component:Profile
+        },{
+            path:"/work",
+            component:Work
         }
     ]
 })
