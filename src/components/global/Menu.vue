@@ -13,7 +13,7 @@
 
 <style lang="scss">
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
-
+// TODO: Revise Minor Fix
 @mixin menuitem_style {
    margin: 75px 0 -55px 0;
     color: #fff;
@@ -29,7 +29,6 @@
 }
 
 @mixin menubar_style {
-    
     position: absolute;
     top: 25px;
     right: 25px;
