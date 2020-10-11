@@ -1,9 +1,6 @@
 <template>
   <div id="app">
-    <router-link to="work">Work</router-link>
-    <router-link to="/profile">Profile</router-link>
-    <router-link to="contact">Contact</router-link>
-    <router-link to="/">Home</router-link>
+
     <router-view></router-view>
   </div>
 </template>
