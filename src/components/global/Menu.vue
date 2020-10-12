@@ -14,6 +14,7 @@
 <style lang="scss">
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
 // TODO: Revise Minor Fix
+// TODO:Fix Overlap Main Content
 @mixin menuitem_style {
    margin: 75px 0 -55px 0;
     color: #fff;
@@ -29,7 +30,7 @@
 }
 
 @mixin menubar_style {
-    position: absolute;
+    position: fixed;
     top: 25px;
     right: 25px;
     background: #fff;
@@ -37,7 +38,7 @@
     height: 5px;
     transition: .2s ease;
     cursor: pointer;
-    z-index: 1;
+    z-index: 11;
 }
 
 a:hover,a:focus{
@@ -57,12 +58,14 @@ label {
 }
 label:before {
     @include menubar_style();
+    position: absolute;
     content: "";
     top: 10px;
     left: 0;
   }
   label:after {
     @include menubar_style();
+    position: absolute;
     content: "";
     top: 20px;
     left: 0;
@@ -97,11 +100,13 @@ label:before {
     box-shadow: 0 2px 5px rgba(0,0,0,0.26);
     animation: not-checked-anim .5s ease both;
     transition: .5s ease;
+    z-index: 9;
 }
 
 #menu-toggle:checked + label + #menu {
   animation: checked-anim 1s ease both;
-  z-index: 0;
+  z-index: 10
+  ;
 }
 #menu-toggle:not(:checked) + label + #menu li {
   pointer-events: none;
