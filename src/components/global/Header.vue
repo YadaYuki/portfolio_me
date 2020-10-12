@@ -15,6 +15,7 @@ export default {
 
 <style lang="scss" scoped>
 .header_wrapper{
+    text-align: center;
     h1{
         margin:5px auto;
     }
