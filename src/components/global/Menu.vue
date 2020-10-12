@@ -11,7 +11,7 @@
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
 // TODO: Revise Minor Fix
 // TODO:Fix Overlap Main Content

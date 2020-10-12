@@ -14,6 +14,7 @@
       </div>
       <div class="subtitle"><strong>Tool & Language</strong></div>
       <div class="detail">
+        <!--TODO: 各ツールをボタンっぽくしたい -->
         {{ project.tool }}
       </div>
     </v-card-text>

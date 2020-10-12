@@ -29,9 +29,9 @@ export default {
 </script>
 <style lang="scss">
 .project_list_wrapper {
-  margin-top: 50px;
+  margin:50px 100px 0;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 </style>
