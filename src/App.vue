@@ -10,8 +10,9 @@ export default {
   name: "App",
 };
 </script>
-<style scoped>
+<style>
 #app{
   margin-bottom: 100px;
+  font-family:"Roboto", sans-serif;
 }
 </style>

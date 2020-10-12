@@ -17,7 +17,7 @@ export default {
 .header_wrapper {
   margin-top: 100px;
   margin-left: 100px;
-  font: 25pt "Roboto", sans-serif;
+  font-size: 25pt;
   h1 {
     font-weight: 100;
   }
