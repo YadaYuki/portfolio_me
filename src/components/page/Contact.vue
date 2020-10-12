@@ -28,7 +28,8 @@
           <div class="message_wrapper">
             <label>Body</label>
             <v-textarea solo name="body"></v-textarea>
-            <v-btn color="blue"> Send </v-btn>
+            <v-btn color="blue"> Submit </v-btn>
+            <!-- TODO:Send Mail -->
           </div>
         </div>
       </v-form>

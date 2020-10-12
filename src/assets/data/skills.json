@@ -1,0 +1,59 @@
+[
+    {
+        "name": "HTML5",
+        "image_svg": "language_icons/icons8-html-5.svg",
+        "level": 4
+    },
+    {
+        "name": "CSS3",
+        "image_svg": "",
+        "level": 4
+    },
+    {
+        "name": "JavaScript",
+        "image_svg": "",
+        "level": 3
+    },
+    {
+        "name": "TypeScript",
+        "image_svg": "",
+        "level": 4
+    },
+    {
+        "name": "Python",
+        "image_svg": "",
+        "level": 4
+    },
+    {
+        "name": "Golang",
+        "image_svg": "",
+        "level": 2
+    },
+    {
+        "name": "Java",
+        "image_svg": "",
+        "level": 2
+    },
+    {
+        "name": "C",
+        "image_svg": "",
+        "level": 2
+    },
+    {
+        "name": "Matlab",
+        "image_svg": "",
+        "level": 2
+    },    {
+        "name": "CloudFormation(GCP/AWS)",
+        "image_svg": "",
+        "level": 2
+    },{
+        "name": "Docker",
+        "image_svg": "",
+        "level": 2
+    },{
+        "name":"Git",
+        "image_svg":"",
+        "level":4
+    }
+]

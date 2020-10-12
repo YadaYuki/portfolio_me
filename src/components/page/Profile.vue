@@ -1,7 +1,6 @@
 <template>
     <div>
-        
-                <Menu />
+        <Menu />
         <Header title="Profile" />
     </div>
 </template>
