@@ -4,27 +4,42 @@
     <Header title="Profile" />
     <div class="profile_wrapper">
       <ProfileItem />
-      <div>
-          <!-- TODO:use Vuetify Col -->
-          <div>
+      <div class="content_wrapper">
+        <!-- TODO:use Vuetify Col -->
+        <div>
           <Experience />
-          </div>
+          <Education />
+        </div>
+        <div>
+          <Skill />
+          <Certification />
+        </div>
       </div>
     </div>
   </div>
 </template>
-
-<style scoped>
+<style lang="scss" scoped>
 .profile_wrapper {
   margin-left: 100px;
 }
-</style>
 
+.content_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  div {
+    width: 50%;
+    min-width: 300px;
+  }
+}
+</style>
 <script>
 import Header from "@/components/global/Header.vue";
 import Menu from "@/components/global/Menu.vue";
 import ProfileItem from "@/components/parts/ProfileItem.vue";
-import Experience from "@/components/parts/Experience.vue"
+import Experience from "@/components/parts/Experience.vue";
+import Education from "@/components/parts/Education.vue";
+import Skill from "@/components/parts/Skill.vue";
+import Certification from "@/components/parts/Certification.vue";
 
 export default {
   name: "Profile",
@@ -32,7 +47,10 @@ export default {
     Header,
     Menu,
     ProfileItem,
-    Experience
+    Experience,
+    Education,
+    Certification,
+    Skill
   },
 };
 </script>

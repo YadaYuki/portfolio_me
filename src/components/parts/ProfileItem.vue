@@ -32,6 +32,7 @@
 <style lang="scss" scoped>
 .profile_item_wrapper {
   width: 300px;
+  margin-top:30px;
   display: flex;
   .image_wrapper {
     width: 40%;

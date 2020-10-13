@@ -16,44 +16,44 @@
     },
     {
         "name": "TypeScript",
-        "image_svg": "icons8-typescript.svg",
+        "image_svg": "language_icons/icons8-typescript.svg",
         "level": 4
     },
     {
         "name": "Python",
-        "image_svg": "icons8-python.svg",
+        "image_svg": "language_icons/icons8-python.svg",
         "level": 4
     },
     {
         "name": "Golang",
-        "image_svg": "icons8-golang.svg",
+        "image_svg": "language_icons/icons8-golang.svg",
         "level": 2
     },
     {
         "name": "Java",
-        "image_svg": "icons8-java.svg",
+        "image_svg": "language_icons/icons8-java.svg",
         "level": 2
     },
     {
         "name": "C",
-        "image_svg": "icons8-c-programming.svg",
+        "image_svg": "language_icons/icons8-c-programming.svg",
         "level": 2
     },
     {
         "name": "Matlab",
-        "image_svg": "icons8-matlab.svg",
+        "image_svg": "language_icons/icons8-matlab.svg",
         "level": 2
     },    {
         "name": "CloudFormation(GCP/AWS)",
-        "image_svg": "icons8-amazon-web-services.svg",
+        "image_svg": "language_icons/icons8-amazon-web-services.svg",
         "level": 2
     },{
         "name": "Docker",
-        "image_svg": "icons8-docker.svg",
+        "image_svg": "language_icons/icons8-docker.svg",
         "level": 2
     },{
         "name":"Git",
-        "image_svg":"icons8-github.svg",
+        "image_svg":"language_icons/icons8-github.svg",
         "level":4
     }
 ]
