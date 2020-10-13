@@ -9,10 +9,11 @@
         <div>
           <Experience />
           <Education />
+          <Certification />
         </div>
         <div>
           <Skill />
-          <Certification />
+          <FieldsOfStudy />
         </div>
       </div>
     </div>
@@ -40,6 +41,7 @@ import Experience from "@/components/parts/Experience.vue";
 import Education from "@/components/parts/Education.vue";
 import Skill from "@/components/parts/Skill.vue";
 import Certification from "@/components/parts/Certification.vue";
+import FieldsOfStudy from "@/components/parts/FieldsOfStudy.vue"
 
 export default {
   name: "Profile",
@@ -50,7 +52,8 @@ export default {
     Experience,
     Education,
     Certification,
-    Skill
+    Skill,
+    FieldsOfStudy
   },
 };
 </script>
