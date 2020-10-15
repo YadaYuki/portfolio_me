@@ -13,7 +13,7 @@
 import Header from "@/components/global/Header.vue";
 import Menu from "@/components/global/Menu.vue";
 import ProjectCard from "@/components/parts/ProjectCard.vue";
-import projects from "@/assets/project.json";
+import projects from "@/assets/data/project.json";
 
 export default {
   name: "Work",
@@ -29,9 +29,12 @@ export default {
 </script>
 <style lang="scss">
 .project_list_wrapper {
-  margin-top: 50px;
+  margin:50px 100px 0;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
+  @media screen and (max-width: 500px){
+     justify-content: center;
+  }
 }
 </style>

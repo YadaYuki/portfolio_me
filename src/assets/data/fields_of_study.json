@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Machine Learning",
+        "level": 3,
+        "image_svg": "language_icons/machine-learning.svg"
+    },
+    {
+        "name": "Quantum Annealing",
+        "level": 3,
+        "image_svg": "language_icons/quantum-computing.svg"
+    }
+]
