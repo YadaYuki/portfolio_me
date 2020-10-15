@@ -13,8 +13,6 @@
 
 <style lang="scss" scoped>
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
-// TODO: Revise Minor Fix
-// TODO:Fix Overlap Main Content
 @mixin menuitem_style {
    margin: 75px 0 -55px 0;
     color: #fff;
@@ -98,15 +96,13 @@ label:before {
     background-color: #1AF6C2;
     border-bottom-left-radius: 100%;
     box-shadow: 0 2px 5px rgba(0,0,0,0.26);
-    animation: not-checked-anim .5s ease both;
     transition: .5s ease;
-    z-index: 9;
+    z-index: 10;
 }
 
 #menu-toggle:checked + label + #menu {
   animation: checked-anim 1s ease both;
-  z-index: 10
-  ;
+  z-index: 10;
 }
 #menu-toggle:not(:checked) + label + #menu li {
   pointer-events: none;
@@ -115,21 +111,14 @@ label:before {
 }
 @keyframes checked-anim {
   50% {
-    width: 3000px;
-    height: 3000px;
-    z-index: 0;
+    width: 5000px;
+    height: 5000px;
+    z-index: 10;
   }
   100% {
     width: 100%;
     height: 100%;
     border-radius: 0;
-  }
-}
-@keyframes not-checked-anim {
-  0% {
-    width: 3000px;
-    height: 3000px;
-    z-index: 0;
   }
 }
 

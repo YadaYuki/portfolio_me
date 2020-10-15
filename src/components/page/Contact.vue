@@ -28,7 +28,7 @@
           <div class="message_wrapper">
             <label>Body</label>
             <v-textarea solo name="body"></v-textarea>
-            <v-btn color="blue"> Submit </v-btn>
+            <v-btn tile color="success"> Submit </v-btn>
             <!-- TODO:Send Mail -->
           </div>
         </div>
@@ -58,6 +58,9 @@ export default {
     flex-wrap: wrap;
     > div {
       min-width: 500px;
+      button {
+        float: right;
+      }
     }
     @media screen and (max-width: 500px) {
       justify-content: center;
