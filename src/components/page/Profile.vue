@@ -2,8 +2,9 @@
   <div>
     <Menu />
     <Header title="Profile" />
+
+    <ProfileItem />
     <div class="profile_wrapper">
-      <ProfileItem />
       <div class="content_wrapper">
         <!-- TODO:use Vuetify Col -->
         <div>
@@ -22,14 +23,16 @@
 <style lang="scss" scoped>
 .profile_wrapper {
   margin-left: 100px;
-}
-
-.content_wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  div {
-    width: 50%;
-    min-width: 300px;
+  .content_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    div {
+      width: 50%;
+      min-width: 300px;
+    }
+    @media screen and (max-width: 500px) {
+      justify-content: center;
+    }
   }
 }
 </style>
@@ -41,7 +44,7 @@ import Experience from "@/components/parts/Experience.vue";
 import Education from "@/components/parts/Education.vue";
 import Skill from "@/components/parts/Skill.vue";
 import Certification from "@/components/parts/Certification.vue";
-import FieldsOfStudy from "@/components/parts/FieldsOfStudy.vue"
+import FieldsOfStudy from "@/components/parts/FieldsOfStudy.vue";
 
 export default {
   name: "Profile",
@@ -53,7 +56,7 @@ export default {
     Education,
     Certification,
     Skill,
-    FieldsOfStudy
+    FieldsOfStudy,
   },
 };
 </script>

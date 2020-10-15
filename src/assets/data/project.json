@@ -1,29 +1,42 @@
-[{
-    "id":1,
-    "image":"project_images/effectivest.jpg",
-    "title":"Effectivest",
-    "tool":"GCP,React,Express(Node.js),MySQL,Docker",
-    "role":"Design and Development",
-    "description":"Application for study. save test,question,correct rate. So, user can learn effectively.",
-    "git_link":"https://github.com/YadaYuki/effectivest-api",
-    "site_link":"http://www.effectivest.com/"
-},{
-    "id":2,
-    "image":"project_images/effectivest.jpg",
-    "title":"Effectivest",
-    "tool":"GCP,React,Express(Node.js),MySQL,Docker",
-    "role":"Design and Development",
-    "description":"Application for study. save test,question,correct rate. So, user can learn effectively.",
-    "git_link":"https://github.com/YadaYuki/effectivest-api",
-    "site_link":"http://www.effectivest.com/"
-},
-{
-    "id":3,
-    "image":"project_images/effectivest.jpg",
-    "title":"Effectivest",
-    "tool":"GCP,React,Express(Node.js),MySQL,Docker",
-    "role":"Design and Development",
-    "description":"Application for study. save test,question,correct rate. So, user can learn effectively.",
-    "git_link":"https://github.com/YadaYuki/effectivest-api",
-    "site_link":"http://www.effectivest.com/"
-}]
+[
+    {
+        "id": 1,
+        "image": "project_images/effectivest.jpg",
+        "title": "Effectivest",
+        "tool": "GCP,React,Express(Node.js),MySQL,Docker",
+        "role": "Design and Development",
+        "description": "Personal Work.  Application for study. save test,question,correct rate. So, user can learn effectively.",
+        "git_link": "https://github.com/YadaYuki/effectivest-api",
+        "site_link": "http://www.effectivest.com/"
+    },
+    {
+        "id": 2,
+        "image": "project_images/noimage.png",
+        "title": "Promtx Media",
+        "tool": "Gatsby(React),Serverless(Typescript),AWS,",
+        "role": "Serverside API,Frontend development. Performance Tuning(Frontend)",
+        "description": "Internship Experience. Media site for real estate investment(Stock Price,News,Nav...etc). ",
+        "git_link": "https://github.com/YadaYuki/effectivest-api",
+        "site_link": "http://www.effectivest.com/"
+    },
+    {
+        "id": 3,
+        "image": "project_images/noimage.png",
+        "title": "Cryptship",
+        "tool": "HTML/CSS/jQuery/Node.js",
+        "role": "Serverside API, Frontend for admin page.",
+        "description": "Internship Experience. This application is for Health care",
+        "git_link": "#",
+        "site_link": "#"
+    },
+    {
+        "id": 4,
+        "image": "project_images/noimage.png",
+        "title": "Company System related to finance",
+        "tool": "HTML/CSS/jQuery/Java(Spring Boot)/MVC Architecture",
+        "role": "Serverside API",
+        "description": "Internship Experience. The system manages the salary of all employees and the cost for the projects in the company",
+        "git_link": "#",
+        "site_link": "#"
+    }
+]
