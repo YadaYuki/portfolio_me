@@ -11,8 +11,9 @@ export default {
 };
 </script>
 <style>
-#app{
-  margin-bottom: 100px;
-  font-family:"Roboto", sans-serif;
+#app {
+  padding-bottom: 100px;
+  background-color:rgba(255,255,255,0);
 }
+
 </style>

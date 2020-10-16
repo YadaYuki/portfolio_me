@@ -2,7 +2,7 @@
   <div>
     <Menu />
     <div class="home_line">
-      <h1>Welcom to <br> Yuki Yada's Portfolio</h1>
+      <h1>Welcome to <br> Yuki Yada's Portfolio</h1>
     </div>
   </div>
 </template>
@@ -19,8 +19,9 @@ export default {
 </script>
 <style lang="scss" scoped>
 .home_line {
-  margin-top: calc(35vh);
-  margin-left:100px;
+  margin-top: 35vh;
+  width:100%;
+  text-align: center;
   h1{
     line-height: 2em;
   }
@@ -31,18 +32,14 @@ export default {
     height: 0.03em;
     background-color: #0c5eff;
     animation: SlideIn 2s;
-    animation-timing-function: ease-in-out;
+    animation-timing-function: ease;
     opacity: 0;
   }
 }
 @keyframes SlideIn {
   0% {
-    opacity: 0;
-    transform: translateX(-100vh);
-  }
-  50% {
-    opacity: 0.5;
-    transform: translateX(0);
+    opacity: 1;
+    transform: translateX(-200vh);
   }
   100% {
     opacity: 1;

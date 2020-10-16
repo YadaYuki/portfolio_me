@@ -35,6 +35,7 @@ export default {
   flex-wrap: wrap;
   @media screen and (max-width: 500px){
      justify-content: center;
+     margin:50px 0 0 ;
   }
 }
 </style>

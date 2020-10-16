@@ -2,9 +2,8 @@
   <div>
     <Menu />
     <Header title="Profile" />
-
-    <ProfileItem />
     <div class="profile_wrapper">
+      <ProfileItem />
       <div class="content_wrapper">
         <!-- TODO:use Vuetify Col -->
         <div>
@@ -22,18 +21,23 @@
 </template>
 <style lang="scss" scoped>
 .profile_wrapper {
-  margin-left: 100px;
+  margin: 50px 100px 0;
   .content_wrapper {
     display: flex;
     flex-wrap: wrap;
     div {
       width: 50%;
-      min-width: 300px;
     }
     @media screen and (max-width: 500px) {
       justify-content: center;
+      div{
+        width:300px;
+      }
     }
   }
+  @media screen and (max-width: 500px) {
+      margin:0;
+    }
 }
 </style>
 <script>
