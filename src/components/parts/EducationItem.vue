@@ -19,7 +19,7 @@ export default {
 <style lang="scss" scoped>
 div {
   margin-top: 30px;
-  width: 300px;
+  width:80%;
   p {
     color: #c4c4c4;
   }

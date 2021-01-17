@@ -21,18 +21,16 @@
 </template>
 <style lang="scss" scoped>
 .profile_wrapper {
-  margin: 50px 100px 0;
+  margin-left:100px;
   .content_wrapper {
     display: flex;
     flex-wrap: wrap;
-    div {
+    & > div {
       width: 50%;
+      min-width: 300px;
     }
     @media screen and (max-width: 500px) {
       justify-content: center;
-      div{
-        width:300px;
-      }
     }
   }
   @media screen and (max-width: 500px) {
