@@ -20,7 +20,7 @@ export default {
 <style lang="scss" scoped>
 div{
     margin-top:30px;
-    width:300px;
+    width:80%;
     h3{
         font-weight: 400;
         a{

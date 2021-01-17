@@ -36,6 +36,7 @@ export default {
 <style lang="scss" scoped>
 .project_card {
   margin-top: 2em;
+  
   width: 300px;
   @media screen and (min-width: 500px) {
     .text_wrapper {

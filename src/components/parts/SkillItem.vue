@@ -13,8 +13,9 @@
 </template>
 <style lang="scss" scoped>
 div {
-  width:150px;
+  width:50%;
   margin-top: 40px;
+  min-width: 150px;
   p{
       line-height: 20px;
       img{

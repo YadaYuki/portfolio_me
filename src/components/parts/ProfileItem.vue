@@ -14,16 +14,24 @@
       <!-- TODO:change to for  -->
       <ul>
         <li>
-          <a href="https://www.facebook.com/yuki.yada.904" target="_brank"><v-icon>mdi-facebook</v-icon></a>
+          <a href="https://www.facebook.com/yuki.yada.904" target="_brank"
+            ><v-icon>mdi-facebook</v-icon></a
+          >
         </li>
         <li>
-          <a href="https://twitter.com/YADAYUKI2" target="_brank"><v-icon>mdi-twitter</v-icon></a>
+          <a href="https://twitter.com/YADAYUKI2" target="_brank"
+            ><v-icon>mdi-twitter</v-icon></a
+          >
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/yukiyada/" target="_brank"><v-icon>mdi-linkedin</v-icon></a>
+          <a href="https://www.linkedin.com/in/yukiyada/" target="_brank"
+            ><v-icon>mdi-linkedin</v-icon></a
+          >
         </li>
         <li>
-          <a href="https://github.com/YadaYuki/" target="_brank"><v-icon>mdi-github</v-icon></a>
+          <a href="https://github.com/YadaYuki/" target="_brank"
+            ><v-icon>mdi-github</v-icon></a
+          >
         </li>
       </ul>
     </div>
@@ -32,7 +40,11 @@
 <style lang="scss" scoped>
 .profile_item_wrapper {
   width: 300px;
-  margin-top:30px;
+  margin-top: 30px;
+  margin-left: 0;
+  @media screen and (max-width: 500px) {
+    margin:30px auto 0;
+  }
   display: flex;
   .image_wrapper {
     width: 40%;
@@ -43,19 +55,19 @@
   .description_wrapper {
     width: 60%;
     margin-left: 10px;
-    h3{
-        font-weight: 400;
+    h3 {
+      font-weight: 400;
     }
-    ul{
-        margin-top:5px;
-        list-style: none;
-        display: flex;
-        li{
-            margin:0 2px 0;
-            a{
-                text-decoration: none;
-            }
+    ul {
+      margin-top: 5px;
+      list-style: none;
+      display: flex;
+      li {
+        margin: 0 2px 0;
+        a {
+          text-decoration: none;
         }
+      }
     }
   }
 }
