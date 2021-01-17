@@ -19,6 +19,6 @@ export default new VueRouter({
         },{
             path:"/work",
             component:Work
-        }S
+        }
     ]
 })
