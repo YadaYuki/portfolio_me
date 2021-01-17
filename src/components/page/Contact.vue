@@ -8,18 +8,24 @@
           <div class="user_info_wrapper">
             <label for="email">Email</label>
             <v-text-field
+              flat
+              outlined
               solo
               name="email"
               prepend-inner-icon="mdi-email"
             ></v-text-field>
             <label for="name">Name</label>
             <v-text-field
+              flat
+              outlined
               solo
               name="name"
               prepend-inner-icon="mdi-account"
             ></v-text-field>
             <label for="name">Subject</label>
             <v-text-field
+              flat
+              outlined
               solo
               name="subject"
               prepend-inner-icon="mdi-text-subject"
@@ -27,8 +33,8 @@
           </div>
           <div class="message_wrapper">
             <label>Body</label>
-            <v-textarea solo name="body"></v-textarea>
-            <v-btn tile color="success"> Submit </v-btn>
+            <v-textarea flat outlined solo name="body"></v-textarea>
+            <v-btn elevation="0" > Submit </v-btn>
             <!-- TODO:Send Mail -->
           </div>
         </div>

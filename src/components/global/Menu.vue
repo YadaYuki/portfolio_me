@@ -94,7 +94,7 @@ label:after {
   top: 0;
   width: 110px;
   height: 110px;
-  background-color: #1af6c2;
+  background-color: #16CFA3;
   border-bottom-left-radius: 100%;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
   transition: 0.5s ease;
