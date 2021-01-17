@@ -2,7 +2,7 @@
   <div>
     <p>{{experience.start}} ~ {{experience.end}}</p>
     <h3>{{experience.job_title}}</h3>
-    <h3><a :href="experience.company_link">{{experience.company_name}}</a></h3>
+    <h3><a target="_blank" :href="experience.company_link">{{experience.company_name}}</a></h3>
     <p>
       {{experience.description}}
     </p>
@@ -28,8 +28,6 @@ div{
             color:#D3CFFF;
         }
     }
-    p{
-        color:#C4C4C4;
-    }
+
 }
 </style>

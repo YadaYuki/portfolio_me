@@ -23,8 +23,6 @@ div {
   h3 {
     font-weight: 400;
   }
-  p {
-    color: #c4c4c4;
-  }
+
 }
 </style>
