@@ -20,11 +20,9 @@ export default {
 div {
   margin-top: 30px;
   width:80%;
-  p {
-    color: #c4c4c4;
-  }
   h3 {
     font-weight: 400;
   }
+  
 }
 </style>

@@ -6,7 +6,7 @@
     <ul>
       <li v-for="n of 5" :key="n">
         <v-icon v-if="n <= skill.level" style="color: #1af6c2"> mdi-star </v-icon>
-        <v-icon v-else> mdi-star-outline </v-icon>
+        <v-icon class="outlined" v-else style="color:#ddd"> mdi-star-outline </v-icon>
       </li>
     </ul>
   </div>
@@ -18,6 +18,7 @@ div {
   min-width: 150px;
   p{
       line-height: 20px;
+      color:#000;
       img{
           height: 20px;
       }
@@ -31,6 +32,7 @@ div {
     }
   }
 }
+
 </style>
 <script>
 export default {
