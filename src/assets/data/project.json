@@ -32,7 +32,7 @@
     {
         "id": 4,
         "image": "project_images/noimage.png",
-        "title": "Company System related to finance",
+        "title": "Company System",
         "tool": "HTML/CSS/jQuery/Java(Spring Boot)/MVC Architecture",
         "role": "Serverside API",
         "description": "Internship Experience. The system manages the salary of all employees and the cost for the projects in the company",
