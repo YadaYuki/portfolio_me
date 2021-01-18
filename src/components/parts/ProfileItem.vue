@@ -33,6 +33,11 @@
             ><v-icon>mdi-github</v-icon></a
           >
         </li>
+         <li>
+          <a href="https://note.com/yadayuki" target="_brank"
+            > <img  height="24" v-bind:src="require(`@/assets/service-icons/note.svg`)"></a
+          >
+        </li>
       </ul>
     </div>
   </div>
