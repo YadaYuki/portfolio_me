@@ -38,6 +38,11 @@
             > <img  height="24" v-bind:src="require(`@/assets/service-icons/note.svg`)"></a
           >
         </li>
+        <li>
+          <a href="https://www.wantedly.com/id/yadayuki" target="_brank"
+            > <img  height="24" v-bind:src="require(`@/assets/service-icons/wantedly.svg`)"></a
+          >
+        </li>
       </ul>
     </div>
   </div>
