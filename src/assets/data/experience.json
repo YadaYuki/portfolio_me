@@ -1,20 +1,29 @@
 [
-    {
-        "id": 1,
-        "company_name": "GritTech Partners Inc.",
-        "company_link": "https://www.gritpartnersgroup.com",
-        "start": "2020/07",
-        "end": "present",
-        "job_title": "Software Engineer",
-        "description": "FullStack Web Development(React,Typescript,AWS,Python).   Focusing on real estate fields."
-    },
-    {
-        "id": 2,
-        "company_name": "Growship Partners Inc.",
-        "company_link": "https://www.growship.com/",
-        "start": "2019/04",
-        "end": "2020/01",
-        "job_title": "Software Engineer",
-        "description": "Web Development (Java,WordPress,Node.js,Python)."
-    }
+  {
+    "id": 1,
+    "company_name": "GritTech Partners Inc.",
+    "company_link": "https://www.gritpartnersgroup.com",
+    "start": "2020/07",
+    "end": "present",
+    "job_title": "Software Engineer",
+    "description": "FullStack Web Development using React,Typescript,AWS,Python. Focusing on real estate fields."
+  },
+  {
+    "id": 2,
+    "company_name": "Wantedly Inc",
+    "company_link": "https://www.wantedly.com/",
+    "start": "2021/03",
+    "end": "2021/03",
+    "job_title": "Software Engineer",
+    "description": "Frontend Web Development using React,Typescript,GraphQL"
+  },
+  {
+    "id": 3,
+    "company_name": "Growship Partners Inc.",
+    "company_link": "https://www.growship.com/",
+    "start": "2019/04",
+    "end": "2020/01",
+    "job_title": "Software Engineer",
+    "description": "Web Development (Java,WordPress,Node.js,Python)."
+  }
 ]
