@@ -1,6 +1,6 @@
 <template>
   <div class="fuga">
-    <ProfileSubsectionTitle subsection_title="Internship・Event" />
+    <ProfileSubsectionTitle subsection_title="Event" />
     <!-- For -->
 
       <EventItem v-for="event in events" v-bind:event="event" :key="event.id" />

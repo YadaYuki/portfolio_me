@@ -29,16 +29,16 @@
   },
   {
     "id": 5,
-    "title": "Web Frontend Development Internship(Employment)",
-    "company_name": "Wantedly Inc",
-    "month": "2021/03",
-    "period": 14
-  },
-  {
-    "id": 6,
     "title": "Web Frontend Development Hackathon",
     "company_name": "CookPad Inc",
     "month": "2021/03",
+    "period": 5
+  },
+  {
+    "id": 6,
+    "title": "Data Science Hackathon based on CRISP-DM",
+    "company_name": "Recruit Inc",
+    "month": "2021/05",
     "period": 5
   }
 ]
