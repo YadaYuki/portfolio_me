@@ -39,6 +39,13 @@
     "title": "Data Science Hackathon based on CRISP-DM",
     "company_name": "Recruit Inc",
     "month": "2021/05",
-    "period": 5
+    "period": 2
+  },
+  {
+    "id": 7,
+    "title": "Development of Web Browser and Application on smart TV.",
+    "company_name": "Access",
+    "month": "2021/08",
+    "period": 1
   }
 ]
