@@ -15,10 +15,19 @@
     "start": "2021/08",
     "end": "2021/08",
     "job_title": "Software Engineer",
-    "description": "Frontend Web Development using React,Typescript,GraphQL"
+    "description": "Lecture of Web and iOS development and implemented A/B test using React,Typescript,Next.js in OJT "
   },
   {
     "id": 3,
+    "company_name": "Cookpad Inc",
+    "company_link": "https://cookpad.com/",
+    "start": "2021/08",
+    "end": "2021/08",
+    "job_title": "Software Engineer",
+    "description": "Lecture of Web and iOS development and implemented A/B test using React,Typescript,Next.js in OJT "
+  },
+  {
+    "id": 4,
     "company_name": "Wantedly Inc",
     "company_link": "https://www.wantedly.com/",
     "start": "2021/03",
@@ -27,7 +36,7 @@
     "description": "Frontend Web Development using React,Typescript,GraphQL"
   },
   {
-    "id": 4,
+    "id": 5,
     "company_name": "Growship Partners Inc.",
     "company_link": "https://www.growship.com/",
     "start": "2019/04",
