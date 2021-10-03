@@ -1,46 +1,46 @@
 [
   {
     "id": 1,
-    "company_name": "GritTech Partners Inc.",
-    "company_link": "https://www.gritpartnersgroup.com",
-    "start": "2020/07",
-    "end": "present",
+    "company_name": "Recruit Inc",
+    "company_link": "https://www.recruit.co.jp/",
+    "start": "2021/09/01",
+    "end": "2021/09/29",
     "job_title": "Software Engineer",
-    "description": "FullStack Web Development using React,Typescript,AWS,Python. Focusing on real estate fields."
+    "description": "I joined Web Frontend Team at Study Sapuri English and implemented new page and feature using React,Typescript."
   },
   {
     "id": 2,
     "company_name": "Cookpad Inc",
     "company_link": "https://cookpad.com/",
-    "start": "2021/08",
-    "end": "2021/08",
+    "start": "2021/08/16",
+    "end": "2021/08/27",
     "job_title": "Software Engineer",
-    "description": "Lecture of Web and iOS development and implemented A/B test using React,Typescript,Next.js in OJT "
+    "description": "I took lecture of Web and iOS development. And I implemented A/B test using React,Typescript,Next.js to Cookpad Recipe Service in OJT"
   },
   {
     "id": 3,
-    "company_name": "Cookpad Inc",
-    "company_link": "https://cookpad.com/",
-    "start": "2021/08",
-    "end": "2021/08",
+    "company_name": "Wantedly Inc",
+    "company_link": "https://www.wantedly.com/",
+    "start": "2021/03/01",
+    "end": "2021/03/12",
     "job_title": "Software Engineer",
-    "description": "Lecture of Web and iOS development and implemented A/B test using React,Typescript,Next.js in OJT "
+    "description": "I implemented new feature using React,Typescript,GraphQL to Wantedly Visit."
   },
   {
     "id": 4,
-    "company_name": "Wantedly Inc",
-    "company_link": "https://www.wantedly.com/",
-    "start": "2021/03",
-    "end": "2021/03",
+    "company_name": "GritTech Partners Inc.",
+    "company_link": "https://www.gritpartnersgroup.com",
+    "start": "2020/07/01",
+    "end": "present",
     "job_title": "Software Engineer",
-    "description": "Frontend Web Development using React,Typescript,GraphQL"
+    "description": "FullStack Web Development using React,Typescript,AWS,Python. Focusing on real estate fields."
   },
   {
     "id": 5,
     "company_name": "Growship Partners Inc.",
     "company_link": "https://www.growship.com/",
-    "start": "2019/04",
-    "end": "2020/01",
+    "start": "2019/04/01",
+    "end": "2020/01/17",
     "job_title": "Software Engineer",
     "description": "Web Development (Java,WordPress,Node.js,Python)."
   }
