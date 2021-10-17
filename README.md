@@ -2,7 +2,7 @@
 
 - This is my Portfolio Site !
 - Implemented by Vue.js/Javascript
-- Let's Visit **[yyada.jp](www.yyada.jp)**
+- Let's Visit **[yyada.jp](https://www.yyada.jp/)**
 
 # Demo 🤩
 
