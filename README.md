@@ -1,29 +1,11 @@
-# portfolio([See App](https://portfolio-64d50.web.app))
+# My Portfolio Site 😘
 
-## Project setup
-```
-yarn install
-```
+- This is my Portfolio Site !
+- Implemented by Vue.js/Javascript
+- Let's Visit **[yyada.jp](www.yyada.jp)**
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# Demo 🤩
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Deploy App to Firebase Hosting
-```
-yarn deploy
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<div align="center">
+<img src="https://user-images.githubusercontent.com/57289763/137631074-6c10d1b6-a93a-4dc0-829d-9c66872c1f18.gif" alt="レシピページのDemo Gif" />
+</div>
