@@ -1,5 +1,14 @@
 [
   {
+    "id": 0,
+    "company_name": "Sony Inc",
+    "company_link": "https://www.sony.com/ja/",
+    "start": "2022/02/4",
+    "end": "2022/02/25",
+    "job_title": "Software Engineer",
+    "description": "I joined Cloud Software Development Team. Proposed a new service to connect TV(BRAVIA) and SNS. Implemented prototype by using AWS, Golang, React, Typescript"
+  },
+  {
     "id": 1,
     "company_name": "Recruit Inc",
     "company_link": "https://www.recruit.co.jp/",
@@ -15,7 +24,7 @@
     "start": "2021/08/16",
     "end": "2021/08/27",
     "job_title": "Software Engineer",
-    "description": "I took lecture of Web and iOS development. And I implemented A/B test using React,Typescript,Next.js to Cookpad Recipe Service in OJT"
+    "description": "I took a lecture of Web and iOS development. And I implemented A/B test using React,Typescript,Next.js to Cookpad Recipe Service in OJT"
   },
   {
     "id": 3,

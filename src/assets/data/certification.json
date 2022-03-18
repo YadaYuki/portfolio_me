@@ -10,5 +10,11 @@
         "time": "2020/03",
         "title": "Machine Learning Course Certification",
         "description": "ML Course provided by Coursera and Stanford University"
+    },
+    {
+        "id": 3,
+        "time": "2021/06",
+        "title": "Statistical Certificate・Grade 2",
+        "description": "Japan Statistical Society Certificate・Grade 2"
     }
 ]
