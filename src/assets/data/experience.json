@@ -1,56 +1,81 @@
 [
   {
-    "id": 0,
-    "company_name": "Sony Inc",
+    "company_name": "Preferred Networks Inc.",
+    "company_link": "https://www.preferred.jp/ja/",
+    "start": "2022/08/03",
+    "end": "2022/09/23",
+    "job_title": "Software Engineer",
+    "description": "Machine Leaning, Frontend, Backend"
+  },
+  {
+    "company_name": "Cybozu Inc.",
+    "company_link": "https://cybozu.co.jp/",
+    "start": "2022/08/22",
+    "end": "2022/08/26",
+    "job_title": "Software Engineer",
+    "description": "Frontend"
+  },
+  {
+    "company_name": "Nikkei Inc.",
+    "company_link": "https://nikkei.com/",
+    "start": "2022/05/11",
+    "end": "present",
+    "job_title": "Research & Development Engineer (Part-time Job)",
+    "description": "Backend, Infrastrucutre, Machine Leaning"
+  },
+  {
+    "company_name": "Sony Inc.",
     "company_link": "https://www.sony.com/ja/",
     "start": "2022/02/4",
     "end": "2022/02/25",
     "job_title": "Software Engineer",
-    "description": "I joined Cloud Software Development Team. Proposed a new service to connect TV(BRAVIA) and SNS. Implemented prototype by using AWS, Golang, React, Typescript"
+    "description": "Backend"
   },
   {
-    "id": 1,
-    "company_name": "Recruit Inc",
+    "company_name": "Recruit Inc.",
     "company_link": "https://www.recruit.co.jp/",
     "start": "2021/09/01",
     "end": "2021/09/29",
     "job_title": "Software Engineer",
-    "description": "I joined Web Frontend Team at Study Sapuri English and implemented new page and feature using React,Typescript."
+    "description": "Frontend"
   },
   {
-    "id": 2,
-    "company_name": "Cookpad Inc",
+    "company_name": "Cookpad Inc.",
     "company_link": "https://cookpad.com/",
     "start": "2021/08/16",
     "end": "2021/08/27",
     "job_title": "Software Engineer",
-    "description": "I took a lecture of Web and iOS development. And I implemented A/B test using React,Typescript,Next.js to Cookpad Recipe Service in OJT"
+    "description": "Frontend"
   },
   {
-    "id": 3,
-    "company_name": "Wantedly Inc",
+    "company_name": "Wantedly Inc.",
     "company_link": "https://www.wantedly.com/",
     "start": "2021/03/01",
     "end": "2021/03/12",
     "job_title": "Software Engineer",
-    "description": "I implemented new feature using React,Typescript,GraphQL to Wantedly Visit."
+    "description": "Frontend"
   },
   {
-    "id": 4,
-    "company_name": "GritTech Partners Inc.",
+    "company_name": "GRIT Tech Inc.",
     "company_link": "https://www.gritpartnersgroup.com",
     "start": "2020/07/01",
     "end": "2022/04/30",
-    "job_title": "Software Engineer",
-    "description": "FullStack Web Development using React,Typescript,AWS,Python. Focusing on real estate fields."
+    "job_title": "Software Engineer (Part-time Job)",
+    "description": "Frontend, Backend, Infrastructure"
   },
   {
-    "id": 5,
     "company_name": "Growship Partners Inc.",
     "company_link": "https://www.growship.com/",
     "start": "2019/04/01",
     "end": "2020/01/17",
-    "job_title": "Software Engineer",
-    "description": "Web Development (Java,WordPress,Node.js,Python)."
+    "job_title": "Software Engineer (Part-time Job)",
+    "description": "Markup, Infrastructure"
+  },
+  {
+    "company_name": "McDonald's Corporation",
+    "company_link": "https://www.mcdonalds.com/us/en-us.htMachine Leaning",
+    "start": "2018/04/20",
+    "end": "2019/01/15",
+    "job_title": "Crew 😊"
   }
 ]
