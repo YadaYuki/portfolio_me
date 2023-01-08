@@ -43,6 +43,11 @@
             > <img  height="24" v-bind:src="require(`@/assets/service-icons/wantedly.svg`)"></a
           >
         </li>
+        <li>
+          <a href="https://zenn.dev/yukiyada" target="_brank"
+            > <img  height="20" v-bind:src="require(`@/assets/service-icons/zenn.svg`)"></a
+          >
+        </li>
       </ul>
     </div>
   </div>
