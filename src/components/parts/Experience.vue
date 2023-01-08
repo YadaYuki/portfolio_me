@@ -23,5 +23,6 @@ export default {
 <style scoped>
 div{
   margin-top: 40px;
+  padding: 0;
 }
 </style>

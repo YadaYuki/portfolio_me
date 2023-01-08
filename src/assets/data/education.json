@@ -1,7 +1,14 @@
 [{
     "id":1,
     "school_name":"Waseda University",
-    "start":"2018/04",
+    "start":"2022/04",
     "end":"present",
+    "description":"Master of Computer Science and Communication"
+}
+    ,{
+    "id":3,
+    "school_name":"Waseda University",
+    "start":"2018/04",
+    "end":"2022/03",
     "description":"Bachelor of Computer Science and Communication"
 }]

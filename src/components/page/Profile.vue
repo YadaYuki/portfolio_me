@@ -5,11 +5,9 @@
     <div class="profile_wrapper">
       <ProfileItem />
       <div class="content_wrapper">
-        <!-- TODO:use Vuetify Col -->
         <div>
-          <Experience />
           <Education />
-          <Event />
+          <Experience />
           <Certification />
         </div>
         <div>
@@ -45,7 +43,6 @@ import Menu from "@/components/global/Menu.vue";
 import ProfileItem from "@/components/parts/ProfileItem.vue";
 import Experience from "@/components/parts/Experience.vue";
 import Education from "@/components/parts/Education.vue";
-import Event from "@/components/parts/Event.vue";
 import Skill from "@/components/parts/Skill.vue";
 import Certification from "@/components/parts/Certification.vue";
 import FieldsOfStudy from "@/components/parts/FieldsOfStudy.vue";
@@ -58,7 +55,6 @@ export default {
     ProfileItem,
     Experience,
     Education,
-    Event,
     Certification,
     Skill,
     FieldsOfStudy,

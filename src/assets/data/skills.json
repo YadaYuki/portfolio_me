@@ -12,7 +12,7 @@
   {
     "name": "Golang",
     "image_svg": "language_icons/icons8-golang.svg",
-    "level": 3
+    "level": 4
   },
   {
     "name": "JavaScript",
@@ -43,7 +43,7 @@
   {
     "name": "Matlab",
     "image_svg": "language_icons/icons8-matlab.svg",
-    "level": 2
+    "level": 1
   },
   {
     "name": "CloudFormation",
