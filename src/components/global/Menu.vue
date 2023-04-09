@@ -3,9 +3,10 @@
     <input type="checkbox" id="menu-toggle" />
     <label for="menu-toggle"></label>
     <ul id="menu">
-      <li><router-link to="/work">Work</router-link></li>
       <li><router-link to="/">Profile</router-link></li>
-      <li><router-link to="/contact">Contact</router-link></li>
+      <li><router-link to="https://blog.yyada.jp/">Notes</router-link></li>
+      <li><router-link to="https://blog.yyada.jp/works/">Work</router-link></li>
+      <li><router-link to="https://forms.gle/dfo1VHBayiXtGeht7">Contact</router-link></li>
       <!-- <li><router-link to="/">Home</router-link></li> -->
     </ul>
   </div>

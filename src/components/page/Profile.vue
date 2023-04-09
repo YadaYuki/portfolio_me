@@ -8,11 +8,12 @@
         <div>
           <Education />
           <Experience />
-          <Certification />
         </div>
         <div>
+          <!-- <Publication /> -->
           <Skill />
           <FieldsOfStudy />
+          <Certification />
         </div>
       </div>
     </div>

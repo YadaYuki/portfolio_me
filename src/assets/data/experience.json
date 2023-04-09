@@ -1,5 +1,13 @@
 [
   {
+    "company_name": "Mercari Inc. / Souzoh Inc.",
+    "company_link": "https://souzoh.com/",
+    "start": "2023/02/01",
+    "end": "present",
+    "job_title": "Software Engineer",
+    "description": "Frontend, Backend"
+  },
+  {
     "company_name": "Preferred Networks Inc.",
     "company_link": "https://www.preferred.jp/ja/",
     "start": "2022/08/03",
