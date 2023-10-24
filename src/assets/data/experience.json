@@ -1,9 +1,25 @@
 [
   {
+    "company_name": "Mercari Inc.",
+    "company_link": "https://jp.mercari.com/",
+    "start": "2023/08/16",
+    "end": "present",
+    "job_title": "Software Engineer",
+    "description": "Machine Learning(Generative AI / LLM)"
+  },
+  {
+    "company_name": "Turing Inc.",
+    "company_link": "https://www.turing-motors.com/",
+    "start": "2023/10/03",
+    "end": "2023/10/13",
+    "job_title": "Research & Development Engineer",
+    "description": "Machine Learning(Vision and Language / Autonomous Driving)"
+  },
+  {
     "company_name": "Mercari Inc. / Souzoh Inc.",
     "company_link": "https://souzoh.com/",
     "start": "2023/02/01",
-    "end": "present",
+    "end": "2023/04/30",
     "job_title": "Software Engineer",
     "description": "Frontend, Backend"
   },
@@ -81,7 +97,7 @@
   },
   {
     "company_name": "McDonald's Corporation",
-    "company_link": "https://www.mcdonalds.com/us/en-us.htMachine Learning",
+    "company_link": "https://www.mcdonalds.com/us/en-us",
     "start": "2018/04/20",
     "end": "2019/01/15",
     "job_title": "Crew 😊"
