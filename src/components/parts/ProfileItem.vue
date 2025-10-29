@@ -7,8 +7,8 @@
       <!-- Name -->
       <h3>Yuki Yada/矢田宙生</h3>
       <p>
-        A Student. <br />
-        Engineer / Designer
+        A Software Engineer <br />
+        Love Web & ML
       </p>
       <ul>
         <li>
