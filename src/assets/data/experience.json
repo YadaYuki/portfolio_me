@@ -1,10 +1,34 @@
 [
   {
     "company_name": "Mercari Inc.",
-    "company_link": "https://jp.mercari.com/",
-    "start": "2023/08/16",
+    "company_link": "https://hallo.mercari.com/",
+    "start": "2025/11/01",
     "end": "present",
     "job_title": "Software Engineer",
+    "description": "Machine Learning (Recommendation System)"
+  },
+  {
+    "company_name": "Mercari Inc./ Hallo",
+    "company_link": "https://hallo.mercari.com/",
+    "start": "2024/10/01",
+    "end": "2025/10/31",
+    "job_title": "Software Engineer",
+    "description": "Machine Learning"
+  },
+  {
+    "company_name": "Mercari Inc.",
+    "company_link": "https://jp.mercari.com/",
+    "start": "2023/04/01",
+    "end": "2024/09/30",
+    "job_title": "Software Engineer",
+    "description": "Machine Learning(Generative AI / LLM)"
+  },
+  {
+    "company_name": "Mercari Inc.",
+    "company_link": "https://jp.mercari.com/",
+    "start": "2023/08/16",
+    "end": "2024/03/31",
+    "job_title": "Software Engineer (Full-Time Internship)",
     "description": "Machine Learning(Generative AI / LLM)"
   },
   {
@@ -12,7 +36,7 @@
     "company_link": "https://www.turing-motors.com/",
     "start": "2023/10/03",
     "end": "2023/10/13",
-    "job_title": "Research & Development Engineer",
+    "job_title": "Research & Development Engineer (Full-Time Internship)",
     "description": "Machine Learning(Vision and Language / Autonomous Driving)"
   },
   {
@@ -20,7 +44,7 @@
     "company_link": "https://souzoh.com/",
     "start": "2023/02/01",
     "end": "2023/04/30",
-    "job_title": "Software Engineer",
+    "job_title": "Software Engineer (Full-Time Internship)",
     "description": "Frontend, Backend"
   },
   {
@@ -28,22 +52,14 @@
     "company_link": "https://www.preferred.jp/ja/",
     "start": "2022/08/03",
     "end": "2022/09/23",
-    "job_title": "Software Engineer",
+    "job_title": "Software Engineer (Full-Time Internship)",
     "description": "Machine Learning, Frontend, Backend"
-  },
-  {
-    "company_name": "Cybozu Inc.",
-    "company_link": "https://cybozu.co.jp/",
-    "start": "2022/08/22",
-    "end": "2022/08/26",
-    "job_title": "Software Engineer",
-    "description": "Frontend"
   },
   {
     "company_name": "Nikkei Inc.",
     "company_link": "https://nikkei.com/",
     "start": "2022/05/11",
-    "end": "present",
+    "end": "2023/08/31",
     "job_title": "Research & Development Engineer (Part-time Job)",
     "description": "Backend, Infrastrucutre, Machine Learning"
   },
@@ -52,7 +68,7 @@
     "company_link": "https://www.sony.com/ja/",
     "start": "2022/02/4",
     "end": "2022/02/25",
-    "job_title": "Software Engineer",
+    "job_title": "Software Engineer (Full-Time Internship)",
     "description": "Backend"
   },
   {
@@ -60,23 +76,7 @@
     "company_link": "https://www.recruit.co.jp/",
     "start": "2021/09/01",
     "end": "2021/09/29",
-    "job_title": "Software Engineer",
-    "description": "Frontend"
-  },
-  {
-    "company_name": "Cookpad Inc.",
-    "company_link": "https://cookpad.com/",
-    "start": "2021/08/16",
-    "end": "2021/08/27",
-    "job_title": "Software Engineer",
-    "description": "Frontend"
-  },
-  {
-    "company_name": "Wantedly Inc.",
-    "company_link": "https://www.wantedly.com/",
-    "start": "2021/03/01",
-    "end": "2021/03/12",
-    "job_title": "Software Engineer",
+    "job_title": "Software Engineer (Full-Time Internship)",
     "description": "Frontend"
   },
   {
@@ -88,18 +88,10 @@
     "description": "Frontend, Backend, Infrastructure"
   },
   {
-    "company_name": "Growship Partners Inc.",
-    "company_link": "https://www.growship.com/",
-    "start": "2019/04/01",
-    "end": "2020/01/17",
-    "job_title": "Software Engineer (Part-time Job)",
-    "description": "Markup, Infrastructure"
-  },
-  {
     "company_name": "McDonald's Corporation",
     "company_link": "https://www.mcdonalds.com/us/en-us",
     "start": "2018/04/20",
     "end": "2019/01/15",
-    "job_title": "Crew 😊"
+    "job_title": "Crew 😊 (Part-time Job)"
   }
 ]
