@@ -7,8 +7,8 @@
       <!-- Name -->
       <h3>Yuki Yada/矢田宙生</h3>
       <p>
-        A Student. <br />
-        Engineer / Designer
+        A Software Engineer <br />
+        Love Web & ML
       </p>
       <ul>
         <li>
@@ -17,7 +17,7 @@
           >
         </li>
         <li>
-          <a href="https://twitter.com/YADAYUKI2" target="_brank"
+          <a href="https://twitter.com/arr0w_swe" target="_brank"
             ><v-icon>mdi-twitter</v-icon></a
           >
         </li>
