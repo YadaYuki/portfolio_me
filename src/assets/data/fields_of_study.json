@@ -1,11 +1,11 @@
 [
     {
-        "name": "Machine Learning",
-        "level": 3,
+        "name": "Natural Language Processing",
+        "level": 4,
         "image_svg": "language_icons/machine-learning.svg"
     },
     {
-        "name": "Quantum Annealing",
+        "name": "Computer Vision",
         "level": 3,
         "image_svg": "language_icons/quantum-computing.svg"
     }

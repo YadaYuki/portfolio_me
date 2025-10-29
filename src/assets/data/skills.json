@@ -15,38 +15,12 @@
     "level": 4
   },
   {
-    "name": "JavaScript",
-    "image_svg": "language_icons/icons8-js-squared.svg",
-    "level": 3
-  },
-  {
-    "name": "HTML5",
+    "name": "HTML/CSS",
     "image_svg": "language_icons/icons8-html-5.svg",
     "level": 4
   },
   {
-    "name": "CSS3",
-    "image_svg": "language_icons/icons8-css3.svg",
-    "level": 4
-  },
-
-  {
-    "name": "Java",
-    "image_svg": "language_icons/icons8-java.svg",
-    "level": 2
-  },
-  {
-    "name": "C",
-    "image_svg": "language_icons/icons8-c-programming.svg",
-    "level": 2
-  },
-  {
-    "name": "Matlab",
-    "image_svg": "language_icons/icons8-matlab.svg",
-    "level": 1
-  },
-  {
-    "name": "CloudFormation",
+    "name": "Terraform",
     "image_svg": "language_icons/icons8-amazon-web-services.svg",
     "level": 2
   },
