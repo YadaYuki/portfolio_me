@@ -6,8 +6,8 @@
       <ProfileItem />
       <div class="content_wrapper">
         <div>
-          <Education />
           <Experience />
+          <Education />
         </div>
         <div>
           <!-- <Publication /> -->

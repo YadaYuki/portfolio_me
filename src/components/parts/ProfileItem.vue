@@ -17,7 +17,7 @@
           >
         </li>
         <li>
-          <a href="https://twitter.com/YADAYUKI2" target="_brank"
+          <a href="https://twitter.com/arr0w_swe" target="_brank"
             ><v-icon>mdi-twitter</v-icon></a
           >
         </li>
